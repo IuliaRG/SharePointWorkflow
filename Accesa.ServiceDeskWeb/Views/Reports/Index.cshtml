@@ -1,0 +1,52 @@
+﻿<html>
+<head>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript"> </script>
+    <script src="~/Scripts/app/TeamCharts.js"></script>
+</head>
+<body>
+    <table >
+        <tr >
+            <td ><div class="columns" id="Status_chart_div" style="border: 1px  #ccc"></div></td>
+            <td><div class="columns" id="Priority_chart_div" style="border: 1px  #ccc"></div></td>
+            <td><div class="columns"  id="InProgress_chart_div" style="border: 1px  #ccc"></div></td>
+            <td><div class="columns" id="CurrentMonth_chart_div" style="border: 1px  #ccc"></div></td>
+        </tr>
+        
+</table>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <div class="nav-side-menu">
+        <div class="brand">Charts</div>
+        <i class="fa fa-bars fa-2x toggle-btn" data-toggle="collapse" data-target="#menu-content"></i>
+        <div class="menu-list">
+            <ul id="menu-content" class="menu-content collapse out">
+                <li data-toggle="collapse" data-target="#products" class="collapsed active">
+                    <a href="#"><i class="fa fa-pie-chart fa-lg"></i> Development Team <span class="arrow"></span></a>
+                </li>
+                <ul class="sub-menu collapse" id="products">
+                    <li><a href="#" onclick="callStatusDev(),showChart('Status_chart_div')">Status Chart</a></li>
+                    <li><a href="#" onclick="callPriorityDev(), showChart('Priority_chart_div')">Priority Chart</a></li>
+                    <li><a href="#" onclick="callCurrentMonthStatusDev(),showChart('CurrentMonth_chart_div')">Current Month Chart</a></li>
+                    <li><a href="#" onclick="callDataWithHighPriorityDev(), showChart('InProgress_chart_div')">High Priority</a></li>
+                </ul>
+                <li data-toggle="collapse" data-target="#service" class="collapsed">
+                    <a href="#"><i class="fa fa-pie-chart fa-lg"></i> Marketing Team <span class="arrow"></span></a>
+                </li>
+                <ul class="sub-menu collapse" id="service">
+                    <li><a href="#" onclick="callStatusMarketing(),showChart('Status_chart_div')">Status Chart</a></li>
+                    <li><a href="#" onclick="callPriorityMarketing(), showChart('Priority_chart_div')">Priority Chart</a></li>
+                    <li><a href="#" onclick="callCurrentMonthStatusMarketing(), showChart('CurrentMonth_chart_div')">Current Month Chart</a></li>
+                    <li><a href="#" onclick="callDataWithHighPriorityMarketing(), showChart('InProgress_chart_div')">High Priority</a></li>
+                </ul>
+            </ul>
+        </div>
+    </div>
+    <script>
+        function showChart(chartId){
+          $(".columns").hide();
+          $("#" + chartId).show();
+        }
+        </script>
+</body>
+</html>

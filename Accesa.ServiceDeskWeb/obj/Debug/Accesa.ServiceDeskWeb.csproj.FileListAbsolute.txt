@@ -1,0 +1,233 @@
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ApplicationInsights.config
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.exe
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.exe.config
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.rsp
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csi.exe
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csi.rsp
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.AppContext.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.exe
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.exe.config
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.rsp
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\VBCSCompiler.exe
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.dll.config
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.pdb
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Antlr3.Runtime.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Web.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.IdentityModel.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.Client.Policy.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.Client.TranslationServices.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.SharePoint.Tools.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ProjectServer.Client.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Publishing.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Search.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Newtonsoft.Json.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Net.Http.Formatting.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Helpers.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.WebHost.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Mvc.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Optimization.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Razor.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Razor.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\WebGrease.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Newtonsoft.Json.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Net.Http.Formatting.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.WebHost.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Helpers.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Mvc.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Optimization.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Razor.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Razor.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Antlr3.Runtime.pdb
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ApplicationInsights.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Web.xml
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.csprojResolveAssemblyReference.cache
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.dll
+D:\Internship\New folder\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.pdb
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ApplicationInsights.config
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.exe
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.exe.config
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csc.rsp
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csi.exe
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\csi.rsp
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.AppContext.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.exe
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.exe.config
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\vbc.rsp
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.dll.config
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Accesa.ServiceDeskWeb.pdb
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Antlr3.Runtime.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Web.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Edm.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.OData.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Services.Client.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Services.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.Client.Policy.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.Client.TranslationServices.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Office.SharePoint.Tools.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ProjectServer.Client.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Publishing.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Search.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Newtonsoft.Json.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Spatial.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Helpers.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Mvc.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Optimization.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Razor.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\WebGrease.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Edm.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.OData.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Services.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.Data.Services.Client.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Newtonsoft.Json.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Spatial.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Helpers.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Mvc.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Optimization.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.Razor.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Antlr3.Runtime.pdb
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\Microsoft.AI.Web.xml
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\de\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\es\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\fr\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\it\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ja\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ko\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ru\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hans\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hant\Microsoft.Data.Services.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\de\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\es\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\fr\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\it\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ja\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ko\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\ru\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.dll
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.pdb
+C:\Users\iulia.rad\Documents\Accesa.ServiceDesk\Accesa.ServiceDeskWeb\obj\Debug\Accesa.ServiceDeskWeb.csprojResolveAssemblyReference.cache
